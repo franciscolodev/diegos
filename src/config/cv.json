@@ -1,0 +1,56 @@
+{
+    "basic": {
+        "name": "Diego S.",
+        "job": "Auxiliar de farmacia",
+        "summary": "Con mucho interés de crecer en la industria farmacéutica.",
+        "cv_file_name": "diego_cv.pdf"
+    },
+    "experiences": [
+        {
+            "title": "Operario",
+            "sub_title": "Droguería",
+            "years": "Feb. 2025 - Present",
+            "details": ""
+        },
+        {
+            "title": "Auxiliar en Farmacia",
+            "sub_title": "Farmacia Lorem Ipsum",
+            "years": "Mar. 2024 - Ene. 2025",
+            "details": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Tecnicatura, Auxiliar de farmacia",
+            "sub_title": "Universidad Blas Pascal",
+            "years": "Ago. - Dic. 2024",
+            "details": "Código: XXXX-XXXX-XXXX-XXXX"
+        },
+        {
+            "title": "Agente de Propaganda Médica ",
+            "sub_title": "Universidad Nacional de Córdoba (UNC)",
+            "years": "Mar. 2025 - Mar. 2027",
+            "details": "Nota: En curso"
+        }
+    ],
+    "projects": [
+        {
+            "imageUrl": "https://blog.talentgarden.com/hubfs/Oracle%20Cloud.jpg",
+            "title": "Visita mi Linkedin",
+            "type": "Certificados",
+            "link": "https://www.linkedin.com"
+        },
+        {
+            "imageUrl": "https://www.redpascal.com.ar/wp-content/uploads/2020/05/UBP_Curso-Farmacia_1600x450.jpg",
+            "title": "AUXILIAR EN FARMACIA",
+            "type": "Blas Pascal",
+            "link": "https://ss.ubp.edu.ar"
+        },
+        {
+            "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/024/656/799/small/man-pharmacist-in-medical-coat-stands-behind-counter-in-pharmacy-and-prescribes-prescription-drugs-png.png",
+            "title": "Carta de Presentación",
+            "type": "Atte",
+            "link": "https://www.linkedin.com"
+        }
+    ]
+}
