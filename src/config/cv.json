@@ -9,13 +9,13 @@
         {
             "title": "Operario",
             "sub_title": "Droguería",
-            "years": "Feb. 2025 - Present",
+            "years": "Feb. 202X - Present",
             "details": ""
         },
         {
             "title": "Auxiliar en Farmacia",
             "sub_title": "Farmacia Lorem Ipsum",
-            "years": "Mar. 2024 - Ene. 2025",
+            "years": "Mar. 202X - Ene. 202X",
             "details": ""
         }
     ],
@@ -23,14 +23,14 @@
         {
             "title": "Tecnicatura, Auxiliar de farmacia",
             "sub_title": "Universidad Blas Pascal",
-            "years": "Ago. - Dic. 2024",
+            "years": "Ago. 202X - Dic. 202X",
             "details": "Código: XXXX-XXXX-XXXX-XXXX"
         },
         {
             "title": "Agente de Propaganda Médica ",
             "sub_title": "Universidad Nacional de Córdoba (UNC)",
-            "years": "Mar. 2025 - Mar. 2027",
-            "details": "Nota: En curso"
+            "years": "Mar. 202X - Mar. 202X",
+            "details": "(avanzado)"
         }
     ],
     "projects": [
