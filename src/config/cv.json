@@ -1,62 +1,56 @@
 {
     "basic": {
-        "name": "Paul Smith",
-        "job": "Software Engineer",
-        "summary": "Transforming challenges into opportunities with cutting-edge technology. Driven by a love for elegant, robust code.",
-        "cv_file_name": "paul_cv.pdf"
+        "name": "Diego S.",
+        "job": "Auxiliar de farmacia",
+        "summary": "Con mucho interés de crecer en la industria farmacéutica.",
+        "cv_file_name": "diego_cv.pdf"
     },
     "experiences": [
         {
-            "title": "Senior Software Engineer",
-            "sub_title": "Tech Solutions Inc.",
-            "years": "2021 - Present",
-            "details": "Led the development of a scalable e-commerce platform that increased sales by 30%. Worked with modern technologies including React, Node.js, and AWS."
+            "title": "Operario",
+            "sub_title": "Droguería",
+            "years": "Feb. 202X - Present",
+            "details": ""
         },
         {
-            "title": "Software Engineer",
-            "sub_title": "Innovate Labs",
-            "years": "2018 - 2021",
-            "details": "Developed and maintained web applications for various clients. Key contributor in migrating legacy systems to cloud infrastructure."
-        },
-        {
-            "title": "Junior Developer",
-            "sub_title": "Creative Apps Studio",
-            "years": "2015 - 2018",
-            "details": "Worked on mobile app development, collaborating with design teams to create user-friendly applications."
+            "title": "Auxiliar en Farmacia",
+            "sub_title": "Farmacia Lorem Ipsum",
+            "years": "Mar. 202X - Ene. 202X",
+            "details": ""
         }
     ],
     "education": [
         {
-            "title": "Bachelor of Science in Computer Science",
-            "sub_title": "University of Modern Tech",
-            "years": "2015 - 2019",
-            "details": "Graduated with honors. Specialized in software development, data structures, and algorithms. Worked on various open-source projects and completed internships in tech companies."
+            "title": "Tecnicatura, Auxiliar de farmacia",
+            "sub_title": "Universidad Blas Pascal",
+            "years": "Ago. 202X - Dic. 202X",
+            "details": "Código: XXXX-XXXX-XXXX-XXXX"
         },
         {
-            "title": "Master of Science in Software Engineering",
-            "sub_title": "Global Tech Institute",
-            "years": "2019 - 2021",
-            "details": "Focused on advanced algorithms, cloud computing, and full-stack development. Published research papers on scalable microservices architecture."
+            "title": "Agente de Propaganda Médica ",
+            "sub_title": "Universidad Nacional de Córdoba (UNC)",
+            "years": "Mar. 202X - Mar. 202X",
+            "details": "(avanzado)"
         }
     ],
     "projects": [
         {
-            "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?q=80&w=764&auto=format&fit=crop",
-            "title": "hello.com",
-            "type": "Website",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "imageUrl": "https://blog.talentgarden.com/hubfs/Oracle%20Cloud.jpg",
+            "title": "Visita mi Linkedin",
+            "type": "Certificados",
+            "link": "https://www.linkedin.com"
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?q=80&w=764&auto=format&fit=crop",
-            "title": "Paul UI kit collections",
-            "type": "UI Kit",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "imageUrl": "https://www.redpascal.com.ar/wp-content/uploads/2020/05/UBP_Curso-Farmacia_1600x450.jpg",
+            "title": "AUXILIAR EN FARMACIA",
+            "type": "Blas Pascal",
+            "link": "https://ss.ubp.edu.ar"
         },
         {
-            "imageUrl": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=764&auto=format&fit=crop",
-            "title": "paul.com",
-            "type": "Website",
-            "link": "https://github.com/wasutz/astro-resume-theme"
+            "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/024/656/799/small/man-pharmacist-in-medical-coat-stands-behind-counter-in-pharmacy-and-prescribes-prescription-drugs-png.png",
+            "title": "Carta de Presentación",
+            "type": "Atte",
+            "link": "https://www.linkedin.com"
         }
     ]
 }

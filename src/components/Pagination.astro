@@ -14,18 +14,12 @@ const currentPage = page.currentPage;
 
 <nav aria-label="Blog pagination" class="flex justify-center items-center space-x-4 mt-8">
   {hasPreviousPage ? (
-    <a
-      href={`/blogs/${currentPage - 1}`}
-      class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border border-border bg-background hover:bg-offset hover:shadow-lg"
-    >
-      Previous
+    <a href={`/blogs/${currentPage - 1}`} class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border border-border bg-background hover:bg-offset hover:shadow-lg">
+      Atrás
     </a>
   ) : (
-    <span
-      class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border cursor-not-allowed text-offset bg-offset"
-      aria-disabled="true"
-    >
-      Previous
+    <span class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border cursor-not-allowed text-offset bg-offset" aria-disabled="true">
+      Atrás
     </span>
   )}
 
@@ -34,18 +28,12 @@ const currentPage = page.currentPage;
   </span>
 
   {hasNextPage ? (
-    <a
-      href={`/blogs/${currentPage + 1}`}
-      class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border border-border bg-background hover:bg-offset hover:shadow-lg"
-    >
-      Next
+    <a href={`/blogs/${currentPage + 1}`} class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border border-border bg-background hover:bg-offset hover:shadow-lg">
+      Siguiente
     </a>
   ) : (
-    <span
-      class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border cursor-not-allowed text-offset bg-offset"
-      aria-disabled="true"
-    >
-      Next
+    <span class="transition-all duration-300 ease-in-out flex items-center justify-center px-6 py-2 h-10 rounded-full border cursor-not-allowed text-offset bg-offset" aria-disabled="true">
+      Siguiente
     </span>
   )}
 </nav>
